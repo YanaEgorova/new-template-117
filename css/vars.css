@@ -1,0 +1,24 @@
+:root {
+  --main-bg-color: #fff;
+  --sub-bg-color: #000;
+  --main-text-color: #fff;
+  --sub-text-color: #fff;
+  --inactive: #818181;
+  --success: #bee3be;
+  --link-color: blue;
+  --accent-color: #ff0000;
+
+
+  --first-brand-color: #432f3f;
+  --second-brand-color: #fc553e;
+  --third-brand-color: #f5f1ee;
+  --fourth-brand-color: #b3a1a0;
+  --fifth-brand-color: #7a6c6b;
+
+  --main-font:  'Poppins';
+  --title-font:  'Poppins Bold';
+  --main-title-light-font: 'Open Sans Condensed';
+  --main-title-font: 'Open Sans Condensed Bold';
+
+  font-size: 62.5%;
+}
