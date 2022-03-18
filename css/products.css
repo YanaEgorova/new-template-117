@@ -42,6 +42,11 @@
     transition: all 0.3s ease-in-out;
     visibility: hidden;
     margin-bottom: 2rem;
+    color: #000;
+    text-align: center;
+}
+.success-message span {
+    color: inherit;
 }
 .success-message > * {
     font-family: inherit;
