@@ -90,11 +90,10 @@
 }
 .contacts__block-left {
     margin-bottom: 1rem;
+    width: 50%;
+    background-color: var(--second-brand-color);
 }
-.contacts__img {
-    display: block;
-    width: 100%;
-}
+
 .contacts__block-right {
     background-color: var(--third-brand-color);
     padding: 3rem 1rem;
@@ -119,17 +118,10 @@
     background-color: var(--fourth-brand-color);
 }
 .phrase {
-    padding: 1rem 0 2rem;
+    padding: 10rem 0;
     text-align: center;
 }
-.phrase__img {
-    display: block;
-    width: 100%;
-    margin-bottom: 2rem;
-    max-width: 80rem;
-    margin-left: auto;
-    margin-right: auto;
-}
+
 .phrase .title {
     margin-bottom: 6rem;
     color: var(--first-brand-color);
@@ -223,10 +215,7 @@
         margin-right: 1rem;
         min-height: 100%;
     }
-    .contacts__img {
-        height: 100%;
-        object-fit: cover;
-    }
+ 
     .contacts__block-right {
         width: 50%;
         min-width: 50%;
