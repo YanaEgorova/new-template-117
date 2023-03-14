@@ -353,6 +353,9 @@
                   <li class="item">
                     <a href="./privacy.html" class="footer__link">Privacy Notice</a>
                   </li>
+                  <li class="item">
+                        <a href="./affiliate-program.html" class="footer__link">Affiliate Program</a>
+                      </li>
          
                 </ul>
               </div>
