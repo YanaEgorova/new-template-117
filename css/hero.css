@@ -134,7 +134,7 @@
 }
 
 .policy {
-    padding: 30rem 0;
+    padding: 20rem 0;
     text-align: center;
 }
 .policy__list {
@@ -253,7 +253,7 @@
     }
     .policy__item:nth-child(1) {
         text-align: left;
-        margin-bottom: 15rem;
+        /* margin-bottom: 15rem; */
     }
     .policy__item:nth-child(1) .sub-title {
         position: absolute;
